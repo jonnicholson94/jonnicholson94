@@ -7,6 +7,7 @@ I'm an aspiring full-stack developer. I first started teaching myself to code ba
 - lemio | [lemiomoney.com](https://lemiomoney.com) | an app to track and manage all of your debts
 - la passion | [lapassionhair.co.uk](http://lapassionhair.co.uk) | a website for a local hairdresser
 - blockpool | [blockpool.vercel.app](https://blockpool.vercel.app) | a website to view the latest prices on the biggest crypto assets
+- blockpool app | same as blockpool website, except built with Swift as a mobile app
 
 ***
 
@@ -25,7 +26,8 @@ However, in my projects so far, I've used the following languages / frameworks:
 - kanby - React, MongoDB, Node.js, Jest
 - lemio - React, MongoDB, Node.js, Swift
 - la passion - HTML, CSS, Vanilla JavaScript
-- blockpool - React, Go
+- blockpool web - React, Go
+- blockpool app - Swift
 
 Kanby, Lemio and Blockpool are all hosted with [Vercel](https://vercel.com) and use serverless functions through them instead of a traditional backend setup. I've loved using serverless functions - they're easy to get going, scalable and fast, without all the hassle of creating a full backend. 
 
