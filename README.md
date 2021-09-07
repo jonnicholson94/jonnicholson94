@@ -1,7 +1,7 @@
 ## 👋🏼 Hey, I'm Jon.
 
 
-I'm an aspiring full-stack developer. I first started teaching myself to code back in 2019, and absolutely fell in love with it. My first project was for a website called 'thedinnertable', which aimed to bring people together via supper clubs. Since then, I've worked on a number of different projects, including:
+I'm a Product Manager who does a bit of code on the side. I first started teaching myself to code back in 2019, and absolutely fell in love with it. My first project was for a website called 'thedinnertable', which aimed to bring people together via supper clubs. Since then, I've worked on a number of different projects, including:
 
 - kanby | [kanby.co](https://kanby.co) | a straightforward kanban board
 - lemio | [lemiomoney.com](https://lemiomoney.com) | an app to track and manage all of your debts
@@ -11,7 +11,7 @@ I'm an aspiring full-stack developer. I first started teaching myself to code ba
 
 ***
 
-In terms of the stack I'm aspiring to, I'd list it as follows:
+In terms of the stack I'm aspiring to learn, I'd list it as follows:
 
 - React
 - Swift
