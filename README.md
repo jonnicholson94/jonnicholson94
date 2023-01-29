@@ -10,7 +10,7 @@ I'm currently a Product Manager, looking to transition across into an engineer r
 - blockpool | [blockpool.vercel.app](https://blockpool.vercel.app) | a website to view the latest prices on the biggest crypto assets
 
 Coming up: 
-- emble | a waiting list API
+- emble | a place to write beautiful documents
 
 ***
 
