@@ -10,9 +10,6 @@ I'm currently a Product Manager, looking to transition across into an engineer r
 - la passion | [lapassionhair.co.uk](http://lapassionhair.co.uk) | a website for a local hairdresser (no longer online)
 - blockpool | [blockpool.vercel.app](https://blockpool.vercel.app) | a website to view the latest prices on the biggest crypto assets
 
-Coming up: 
-- emble | a place to write beautiful documents
-
 ***
 
 In terms of my stack, I'd list it as follows:
