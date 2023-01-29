@@ -23,6 +23,4 @@ In terms of my stack, I'd list it as follows:
 
 I'm now at a stage where I can comfortably build React webapps, and I'm looking to increase the scalability / reliability of these apps through Typescript. Then for any backend work, I've generally used Node.js, and found it to be pretty performant on the whole. 
 
-Most of my apps are hosted with [Vercel](https://vercel.com) and use serverless functions through them instead of a traditional backend setup. I've loved using serverless functions - they're easy to get going, scalable and fast, without all the hassle of creating a full backend. 
-
-However, with my next project (emble), I'm intending to build and deploy a full backend - since it's an API.
+Most of my apps are hosted with [Vercel](https://vercel.com) and use serverless functions through them instead of a traditional backend setup. I've loved using serverless functions - they're easy to get going, scalable and fast, without all the hassle of creating a full backend.
