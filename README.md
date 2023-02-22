@@ -3,7 +3,6 @@
 
 I'm currently a Product Manager, looking to transition across into an engineer role. I first started teaching myself to code back in 2019, and absolutely fell in love with it. My first project was for a website called 'thedinnertable', which aimed to bring people together via supper clubs. Since then, I've worked on a number of different projects, including:
 
-- emble | [emble](https://https://emble.app) | write beautiful documents collaboratively
 - cv-builder | [cv-builder](https://cv-builder.app) | a cv building tool
 - kanby | [kanby](https://kanby.vercel.app) | a straightforward kanban board
 - lemio | [lemiomoney](https://lemio-rho.vercel.app) | an app to track and manage all of your debts
