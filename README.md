@@ -1,23 +1,50 @@
+
 ## 👋🏼 Hey, I'm Jon.
 
+I'm currently a Product Manager, but I'm on a journey to transition into a Junior Software Engineer role. I love working on building intuitive user flows, and writing clean code. 
 
-I'm currently a Product Manager, looking to transition across into an engineer role. I first started teaching myself to code back in 2019, and absolutely fell in love with it. My first project was for a website called 'thedinnertable', which aimed to bring people together via supper clubs. Since then, I've worked on a number of different projects, including:
+I first started coding back in 2019, learning the basics of HTML, CSS, and JavaScript. Since then, I've worked on a number of projects, including:
 
-- cv-builder | [cv-builder](https://cv-builder.app) | a cv building tool
-- kanby | [kanby](https://kanby.vercel.app) | a straightforward kanban board
-- lemio | [lemiomoney](https://lemio-rho.vercel.app) | an app to track and manage all of your debts
-- la passion | [lapassionhair.co.uk](http://lapassionhair.co.uk) | a website for a local hairdresser (no longer online)
-- blockpool | [blockpool.vercel.app](https://blockpool.vercel.app) | a website to view the latest prices on the biggest crypto assets
+### Projects:
 
-***
+- **Emble** | [emble.app](https://emble.app)
+   - A platform for conducting effective user research by embedding prototypes into interactive surveys. Currently in beta. 
+   - Built with Next.js, TypeScript, and Go.
 
-In terms of my stack, I'd list it as follows:
+- **cv-builder** | [cv-builder.app](https://cv-builder.app)
+   - A tool for building CVs.
+   - Built with Next.js and TypeScript.
 
-- React
-- Typescript
-- Node.js
+- **kanby** | [kanby.vercel.app](https://kanby.vercel.app)
+   - A straightforward kanban board.
+   - Built with Next.js and TypeScript.
+
+- **lemio** | [lemiomoney.vercel.app](https://lemio-rho.vercel.app)
+   - An app to track and manage debts. I got a good number of users signed up to the waiting list (~200) and built an MVP, but decided to close it down rather than pursue it further, since I need to raise money for it.
+   - Built with React.
+
+- **blockpool** | [blockpool.vercel.app](https://blockpool.vercel.app)
+   - A website for viewing the latest prices of major crypto assets.
+
+The source code for all of these projects are available in my repositories!
+
+I'm particularly proud of what I achieved with Emble. I built the backend from scratch, creating different endpoints and handling errors using a custom error struct. My favourite piece of functionality to build was the reset password endpoint. First, it creates a UUID and stores it in the database when a user requests a reset. Next, it sends a templated email via Resend to the user with a unique link in it. Once the user clicks on the link, it takes them to a callback page, where they can enter a new password that then updates in my database. It's a really good flow, and works well in my opinion!
+
+If you're interested in trying it out for yourself, feel free to drop me a message and I'd be happy setting you up with an account to play around with it in the wild!
+
+### My tech stack:
+
+- React / Next.js
+- TypeScript
+- Go
 - PostgreSQL
 
-I'm now at a stage where I can comfortably build React webapps, and I'm looking to increase the scalability / reliability of these apps through Typescript. Then for any backend work, I've generally used Node.js, and found it to be pretty performant on the whole. 
+### Additional skills:
 
-Most of my apps are hosted with [Vercel](https://vercel.com) and use serverless functions through them instead of a traditional backend setup. I've loved using serverless functions - they're easy to get going, scalable and fast, without all the hassle of creating a full backend.
+- Node.js
+- Python
+- Swift
+- Vue
+- MongoDb
+
+If a skill isn't listed here, I'm enthusiastic about learning new languages and technologies, so I'm more than happy to pick up any new language and run with it. Otherwise, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jonathanenicholson/) or reach out via email at [jon.nicholson94@googlemail.com](mailto:jon.nicholson94@googlemail.com).
