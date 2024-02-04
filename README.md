@@ -1,50 +1,50 @@
 
 ## 👋🏼 Hey, I'm Jon.
 
-I'm currently a Product Manager, but I'm on a journey to transition into a Junior Software Engineer role. I love working on building intuitive user flows, and writing clean code. 
+I'm a frontend engineer, currently working as a Product Manager. I love building intuitive user flows, and creating experiences that users will love.
 
-I first started coding back in 2019, learning the basics of HTML, CSS, and JavaScript. Since then, I've worked on a number of projects, including:
+### My portfolio projects:
 
-### Projects:
+Source code for cv-builder and Kanby projects are on my profile, with deeper breakdowns of the code implementation. The LOVESPACE check-in tool is stored privately.
 
-- **Emble** | [emble.app](https://emble.app)
-   - A platform for conducting effective user research by embedding prototypes into interactive surveys. Currently in beta. 
-   - Built with Next.js, TypeScript, and Go.
+#### LOVESPACE check-in tool | [LOVESPACE customer check-in tool v2](https://check-in-v2.vercel.app) | NOT CURRENTLY DEPLOYED TO LIVE
 
-- **cv-builder** | [cv-builder.app](https://cv-builder.app)
-   - A tool for building CVs.
-   - Built with Next.js and TypeScript.
+As a project in my current job, I re-built our customer check-in tool to utilise Nuxt 3. It was previously built using Angular, but we're currently in the process of migrating all of our frontend UI, including internal tools, across to Vue 3 or Nuxt 3. It gave me the opportunity to work with some of our frontend devs, conducting code reviews, and utilising internal mechanisms to write code.
 
-- **kanby** | [kanby.vercel.app](https://kanby.vercel.app)
-   - A straightforward kanban board.
-   - Built with Next.js and TypeScript.
+- Built the frontend UI using Nuxt 3
+- Communicated with our backend using an API class
+- Utilised Pinia for storing data and UI state
 
-- **lemio** | [lemiomoney.vercel.app](https://lemio-rho.vercel.app)
-   - An app to track and manage debts. I got a good number of users signed up to the waiting list (~200) and built an MVP, but decided to close it down rather than pursue it further, since I need to raise money for it.
-   - Built with React.
+#### cv-builder | [cv-builder-ashy.vercel.app](https://cv-builder-ashy.vercel.app)
 
-- **blockpool** | [blockpool.vercel.app](https://blockpool.vercel.app)
-   - A website for viewing the latest prices of major crypto assets.
+An app that helps you build tech CVs, and export them into different templates.
 
-The source code for all of these projects are available in my repositories!
+- Wrote the frontend using Next.js's App router, utilising server components to fetch data
+- Integrated with Supabase for authentication and storage
+- Utilised Radix UI for various different components
+- Wrote unit tests using Jest and React Testing Library
 
-I'm particularly proud of what I achieved with Emble. I built the backend from scratch, creating different endpoints and handling errors using a custom error struct. My favourite piece of functionality to build was the reset password endpoint. First, it creates a UUID and stores it in the database when a user requests a reset. Next, it sends a templated email via Resend to the user with a unique link in it. Once the user clicks on the link, it takes them to a callback page, where they can enter a new password that then updates in my database. It's a really good flow, and works well in my opinion!
+#### Kanby | [kanby.vercel.app](https://kanby.vercel.app)
 
-If you're interested in trying it out for yourself, feel free to drop me a message and I'd be happy setting you up with an account to play around with it in the wild!
+A simple todo app.
 
-### My tech stack:
+- Frontend built using Next.js Pages router
+- React Query for data fetching and caching
+- Integrated with Supabase for authentication and storage
+- Zustand for a simple store that contains UI state
+- Radix UI for various different components
+- Unit tests written using Jest and React Testing Library
 
-- React / Next.js
-- TypeScript
-- Go
-- PostgreSQL
+There's also a number of old projects that I've worked on before on my GitHub. I've played around with a number of different languages, including Go, Node.js, and more.
 
-### Additional skills:
+### What's next?
 
-- Node.js
-- Python
-- Swift
-- Vue
-- MongoDb
+I'm now looking to move across into a full time frontend engineer role.
 
-If a skill isn't listed here, I'm enthusiastic about learning new languages and technologies, so I'm more than happy to pick up any new language and run with it. Otherwise, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jonathanenicholson/) or reach out via email at [jon.nicholson94@googlemail.com](mailto:jon.nicholson94@googlemail.com).
+I think my experience as a PM has given me great insight into the processes and ways of thinking in order to build a high quality product. Being customer centric, capable of building roadmaps and communicating with other teams around the business, puts me in a great position to be truly autonomous in an engineer role when I combine those skills with my technical ones.
+
+I'm also moving on to building a new startup / side project. For v1, it's an app that will help PMs, designers, or anybody else quickly conduct usability testing on prototypes - but remotely, and asynchronously. 
+
+### Contact
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jonathanenicholson/) or reach out via email at [jon.nicholson94@googlemail.com](mailto:jon.nicholson94@googlemail.com).
