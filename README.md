@@ -1,19 +1,39 @@
 
 ## 👋🏼 Hey, I'm Jon.
 
-I'm a frontend engineer, currently working as a Product Manager. I love building intuitive user flows, and creating experiences that users will love.
+I’m a self-taught dev, looking to move from being a Product Manager to become a Junior Frontend / Fullstack Engineer. 
+
+I’ve been building my own projects for the last 5 years now, and have strong experience in React and Node.js. However, I’m striving to be language / framework agnostic and I’m happy to learn any language needed to get the job done.
+
+To support this, I’ve recently been teaching myself core Computer Science fundamentals, focusing specifically on data structures and algorithms.
+
+### My technical skills
+
+- Languages: Javascript, TypeScript, Go
+- Frameworks / libraries: React, Next.js, Node.js, TailwindCSS, Framer Motion
+- Tools/platforms: AWS, Docker, Jest, React Testing Library, PostgreSQL, Cloudflare
+- Concepts: Data Structures, Algorithms, API Development
+
+### Emble
+
+[Emble](https://emble.app) is my showpiece project! 
+
+It's an app that enables teams to get high quality video feedback from their users on Figma prototypes, websites, and more. 
+
+Since it's a commercial app, and I don't want people to self-host it, I've currently got the source code stored privately. However, at a high level, I've...
+
+- Built the frontend UI using Next.js 14 App Router and TypeScript, implementing many modern React techniques such as suspense, memoisation and more
+- Implemented AI functionality using popular LLMs such as OpenAI and Claude 
+- Styled with TailwindCSS and Framer Motion for animations
+- Built a Node.js API which communicates with a PostgreSQL database and is consumed by the Next.js client app
+- Utilised AWS S3 for blob storage, and AWS Lambda’s for video processing
+- Stored videos on Cloudflare Stream for CDN and efficient video delivery
+- Deployed the containerised Node.js API onto Fly.io using Docker
+- Wrote unit tests using Jest and React Testing Library
 
 ### My portfolio projects:
 
-Source code for cv-builder and Kanby projects are on my profile, with deeper breakdowns of the code implementation. The LOVESPACE check-in tool is stored privately.
-
-#### LOVESPACE check-in tool | [LOVESPACE customer check-in tool v2](https://check-in-v2.vercel.app) | NOT CURRENTLY DEPLOYED TO LIVE
-
-As a project in my current job, I re-built our customer check-in tool to utilise Nuxt 3. It was previously built using Angular, but we're currently in the process of migrating all of our frontend UI, including internal tools, across to Vue 3 or Nuxt 3. It gave me the opportunity to work with some of our frontend devs, conducting code reviews, and utilising internal mechanisms to write code.
-
-- Built the frontend UI using Nuxt 3
-- Communicated with our backend using an API class
-- Utilised Pinia for storing data and UI state
+Source code for cv-builder and Kanby projects are on my profile, with deeper breakdowns of the code implementation.
 
 #### cv-builder | [cv-builder-ashy.vercel.app](https://cv-builder-ashy.vercel.app)
 
@@ -39,11 +59,9 @@ There's also a number of old projects that I've worked on before on my GitHub. I
 
 ### What's next?
 
-I'm now looking to move across into a full time frontend engineer role.
+I'm now looking to move across into a full time Junior Frontend / Fullstack Engineer role.
 
 I think my experience as a PM has given me great insight into the processes and ways of thinking in order to build a high quality product. Being customer centric, capable of building roadmaps and communicating with other teams around the business, puts me in a great position to be truly autonomous in an engineer role when I combine those skills with my technical ones.
-
-I'm also moving on to building a new startup / side project. For v1, it's an app that will help PMs, designers, or anybody else quickly conduct usability testing on prototypes - but remotely, and asynchronously. 
 
 ### Contact
 
